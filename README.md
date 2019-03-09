@@ -1,2 +1,2 @@
-# redis-spring
-Spring Application for Redis
+# Spring Application for Redis
+Introduce Spring Application with Redis Cluster or Single.
